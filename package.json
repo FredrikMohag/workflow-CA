@@ -17,4 +17,17 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.19.3",
-    "@babel
+    "@babel/preset-env": "^7.19.4",
+    "@eslint/js": "^8.48.0",
+    "cypress": "^13.13.3",
+    "eslint": "^8.48.0",
+    "eslint-plugin-cypress": "^3.5.0",
+    "globals": "^15.9.0",
+    "live-server": "^1.2.0",
+    "prettier": "^3.3.3",
+    "sass": "^1.54.8"
+  },
+  "dependencies": {
+    "bootstrap-dark-5": "^1.1.3"
+  }
+}
