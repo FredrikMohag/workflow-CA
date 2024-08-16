@@ -1,5 +1,4 @@
-
-  {
+{
   "name": "css-frameworks-ca",
   "version": "1.0.0",
   "description": "Test",
@@ -14,7 +13,8 @@
     "test:unit": "jest",
     "test:e2e": "cypress open",
     "test:e2e-cli": "cypress run",
-    "test": "npm run test:unit && npm run test:e2e"
+    "test": "npm run test:unit && npm run test:e2e",
+    "test:detect-open-handles": "jest --detectOpenHandles"
   },
   "keywords": [],
   "author": "Noroff",
