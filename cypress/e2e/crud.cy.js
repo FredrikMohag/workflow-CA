@@ -57,5 +57,3 @@ describe("Posts", () => {
 
   // it('allows a user to like a post', () => {
 });
-
-//Check the profile post
