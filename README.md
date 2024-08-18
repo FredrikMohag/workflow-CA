@@ -1,9 +1,9 @@
-Workflow CA.
+# Workflow CA.
 
 My repository is a fork of the Noroff Social Media Client repository.
 
 
-Description
+# Description
 
 The task was to use this existing repository and improve its quality by testing with Cypress and Jest.
 
@@ -18,25 +18,31 @@ Prettier
 Husky
 
 
-Installation and Running
+# Installation and Running
 1. Clone the repo
+   
    https://github.com/FredrikMohag/workflow-CA.git
 
-2. Install the dependencies
+3. Install the dependencies
+
    npm install
 
-3. Run build/SASS
-   nmp run start
+4. Run build/SASS
+
+    nmp run start
+
    npm build
 
-4. Check format
+5. Check format
+ 
    npm run format
 
-5. Check Lint
+6. Check Lint
+7. 
    npm runt lint
    
 
-Testing
+# Testing
 
 Testing with Actions
 
