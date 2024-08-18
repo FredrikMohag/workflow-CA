@@ -46,6 +46,7 @@ Husky
 
 Testing with Actions
 
+[![Automated Unit Testing](https://github.com/FredrikMohag/workflow-CA/actions/workflows/unit-test.yml/badge.svg)](https://github.com/FredrikMohag/workflow-CA/actions/workflows/unit-test.yml)
 
 [![Lint](https://github.com/FredrikMohag/workflow-CA/actions/workflows/lint.yml/badge.svg)](https://github.com/FredrikMohag/workflow-CA/actions/workflows/lint.yml)
 
