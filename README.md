@@ -45,6 +45,7 @@ Husky
 # Testing
 
 Testing with Actions
+[![Lint](https://github.com/FredrikMohag/workflow-CA/actions/workflows/lint.yml/badge.svg)](https://github.com/FredrikMohag/workflow-CA/actions/workflows/lint.yml)
 
 Run Unit-test
 
